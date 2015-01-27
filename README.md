@@ -10,8 +10,8 @@ Areas that need improvment
 Challenges
 ----------
 
-*Redo and refactor chalenges
-*Do 30 Ruby katas
-*Do 30 Javascript katas
+* Redo and refactor chalenges
+* Do 30 Ruby katas
+* Do 30 Javascript katas
 
 
